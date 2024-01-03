@@ -1,0 +1,993 @@
+May 12 21:27 : exception: Failed to access /home/yunqi/Music: No such file or directory
+May 12 21:27 : exception: Failed to open '/home/yunqi/.config/mpd/state': No such file or directory
+May 12 21:27 : exception: inotify_add_watch() has failed: No such file or directory
+May 12 21:37 : update: added /爱与喜欢的区别- 尤长靖,房东的猫.flac
+May 12 21:42 : update: added /C400000025pc4OSOEX.m4a
+May 12 21:42 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 12 21:43 : update: removing C400000025pc4OSOEX.m4a
+May 12 21:43 : update: added /Just Fly Away.m4a
+May 12 21:46 : update: added /说书人.mp3
+May 12 21:48 : update: added /爱的城堡.mp3
+May 12 21:50 : update: added /STAR TRAIN.m4a
+May 12 21:51 : update: added /大雪.mp3
+May 12 21:52 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 12 22:16 : player: played "Just Fly Away.m4a"
+May 12 22:25 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 12 22:33 : player: played "大雪.mp3"
+May 12 23:22 : player: played "爱的城堡.mp3"
+May 13 11:13 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:14 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:14 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:14 : exception: Failed to open audio output
+May 13 11:14 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:14 : exception: Failed to open audio output
+May 13 11:14 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:14 : exception: Failed to open audio output
+May 13 11:23 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:23 : exception: Failed to open audio output
+May 13 11:23 : player: played "说书人.mp3"
+May 13 11:24 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:24 : exception: Failed to open audio output
+May 13 11:24 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:24 : exception: Failed to open audio output
+May 13 11:32 : player: played "说书人.mp3"
+May 13 11:33 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 11:33 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:33 : exception: Failed to open audio output
+May 13 11:33 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:33 : exception: Failed to open audio output
+May 13 11:34 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:34 : exception: Failed to open audio output
+May 13 11:34 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:34 : exception: Failed to open audio output
+May 13 11:38 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:38 : exception: Failed to open audio output
+May 13 11:38 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 11:38 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:38 : exception: Failed to open audio output
+May 13 11:38 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:38 : exception: Failed to open audio output
+May 13 11:39 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 11:39 : exception: Failed to open audio output
+May 13 11:48 : player: played "爱的城堡.mp3"
+May 13 11:49 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 11:50 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 11:50 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 11:50 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 11:59 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 11:59 : player: played "爱的城堡.mp3"
+May 13 12:30 : player: played "STAR TRAIN.m4a"
+May 13 15:42 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 15:43 : player: played "大雪.mp3"
+May 13 15:43 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 15:46 : player: played "大雪.mp3"
+May 13 15:49 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 15:49 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 15:51 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 15:52 : player: played "爱与喜欢的区别- 尤长靖,房东的猫.flac"
+May 13 15:53 : player: played "说书人.mp3"
+May 13 15:53 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 15:56 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 15:56 : player: played "说书人.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 17:36 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 17:36 : update: added /极乐净土.mp3
+May 13 17:36 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 17:36 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 17:36 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 17:37 : update: removing 极乐净土.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 17:39 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 17:39 : update: added /极乐净土.mp3
+May 13 17:43 : ffmpeg/aac: Could not update timestamps for skipped samples.
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 17:44 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 17:44 : update: added /New boy.mp3
+May 13 17:44 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 17:44 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 17:44 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 17:49 : player: played "New boy.mp3"
+May 13 17:49 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 17:53 : player: played "Just Fly Away.m4a"
+May 13 17:56 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 17:56 : player: played "爱的城堡.mp3"
+May 13 18:01 : player: played "STAR TRAIN.m4a"
+May 13 18:04 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 18:04 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 18:04 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 18:04 : player: played "大雪.mp3"
+May 13 18:07 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 18:07 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 18:07 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 18:07 : player: played "极乐净土.mp3"
+May 13 18:33 : player: played "New boy.mp3"
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 18:35 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 18:35 : update: added /魔法城堡.mp3
+May 13 18:35 : update: removing 爱的城堡.mp3
+May 13 22:25 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:26 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:26 : player: played "大雪.mp3"
+May 13 22:26 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:27 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:27 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:27 : player: played "Just Fly Away.m4a"
+May 13 22:27 : mixer: Failed to read mixer for 'pulse audio': no such mixer control: PCM
+May 13 22:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:27 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 13 22:28 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 13 22:28 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 13 22:28 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 13 22:30 : player: played "大雪.mp3"
+May 13 22:30 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:30 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 22:30 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 22:30 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:30 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:31 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:31 : player: played "极乐净土.mp3"
+May 13 22:31 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 22:31 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 22:31 : mixer: Failed to read mixer for 'pulse audio': no such mixer control: PCM
+May 13 22:31 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 13 22:31 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 13 22:33 : player: played "大雪.mp3"
+May 13 22:33 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 22:33 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 22:33 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:33 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:36 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:36 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:39 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 22:39 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 22:39 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:43 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:43 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:43 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:46 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 13 22:47 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:48 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+May 13 22:48 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:52 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:52 : player: played "Just Fly Away.m4a"
+May 13 22:54 : output: Failed to play on "pulse audio" (pulse): disconnected
+May 13 22:55 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:56 : player: played "STAR TRAIN.m4a"
+May 13 22:57 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:57 : player: played "STAR TRAIN.m4a"
+May 13 22:58 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 22:58 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:59 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 22:59 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+May 13 22:59 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+May 13 23:00 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:02 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 23:03 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 13 23:07 : player: played "Just Fly Away.m4a"
+May 13 23:17 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 23:17 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:20 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 23:20 : player: played "Just Fly Away.m4a"
+May 13 23:20 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:22 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 23:22 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+May 13 23:23 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 13 23:23 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:24 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 13 23:24 : player: played "STAR TRAIN.m4a"
+May 13 23:27 : player: played "STAR TRAIN.m4a"
+May 13 23:27 : output: Failed to play on "pulse audio" (pulse): disconnected
+May 13 23:30 : player: played "STAR TRAIN.m4a"
+May 13 23:34 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 23:34 : player: played "大雪.mp3"
+May 13 23:36 : player: played "大雪.mp3"
+May 13 23:37 : player: played "大雪.mp3"
+May 13 23:38 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:40 : player: played "大雪.mp3"
+May 13 23:40 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:40 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:43 : player: played "大雪.mp3"
+May 13 23:44 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:46 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 23:46 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 23:46 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 13 23:46 : player: played "大雪.mp3"
+May 13 23:46 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:48 : player: played "极乐净土.mp3"
+May 13 23:49 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 23:49 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 23:49 : output: Failed to play on "pulse audio" (pulse): suspended
+May 13 23:50 : player: played "极乐净土.mp3"
+May 13 23:50 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 23:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 23:52 : player: played "极乐净土.mp3"
+May 13 23:53 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+May 13 23:53 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 23:53 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 23:53 : player: played "极乐净土.mp3"
+May 13 23:53 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 23:53 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 23:54 : player: played "极乐净土.mp3"
+May 14 09:17 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 09:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 09:21 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 09:24 : player: played "极乐净土.mp3"
+May 14 09:24 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 09:24 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 09:25 : mixer: Failed to read mixer for 'pulse audio': no such mixer control: PCM
+May 14 09:25 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 14 09:25 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 14 09:25 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 14 09:25 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 14 09:25 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 14 09:25 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 09:25 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 14 09:26 : output: Failed to play on "pulse audio" (alsa): snd_pcm_poll_descriptors_revents() failed: Input/output error
+May 14 09:26 : output: Failed to open mixer for 'pulse audio': no such mixer control: PCM
+May 14 09:26 : player: played "STAR TRAIN.m4a"
+May 14 09:29 : player: played "STAR TRAIN.m4a"
+May 14 09:32 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 09:33 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 14 09:35 : player: played "Just Fly Away.m4a"
+May 14 09:39 : player: played "Just Fly Away.m4a"
+May 14 09:41 : player: played "Just Fly Away.m4a"
+May 14 09:43 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 09:43 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 09:43 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 09:43 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 09:43 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 09:43 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 09:43 : ffmpeg/aac: Could not update timestamps for skipped samples.
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 15:04 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 15:04 : update: added /Don't say lazy.mp3
+May 14 15:06 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 15:06 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 15:06 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 15:06 : player: played "说书人.mp3"
+May 14 15:07 : update: updating /Don't say lazy.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 15:07 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 15:08 : ffmpeg/aac: Pulse data corrupt or invalid.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Multiple frames in a packet.
+May 14 15:08 : ffmpeg/aac: channel element 3.2 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (7) exceeds limit (4).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (10) exceeds limit (3).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: channel element 3.4 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.8 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.12 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.0 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: decode_pce: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.9 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.0 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.15 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.9 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.12 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: invalid band type
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: SBR was found before the first channel element.
+May 14 15:08 : ffmpeg/aac: Number of bands (56) exceeds limit (37).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of bands (16) exceeds limit (14).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Too large remapped id
+May 14 15:08 : ffmpeg/aac:  is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
+May 14 15:08 : ffmpeg/aac: If you want to help, upload a sample of this file to https://streams.videolan.org/upload/ and contact the ffmpeg-devel mailing list. (ffmpeg-devel@ffmpeg.org)
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Not yet implemented in FFmpeg, patches welcome
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.8 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.4 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.15 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.3 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Number of bands (7) exceeds limit (6).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of scalefactor bands in group (62) exceeds limit (49).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: SBR was found before the first channel element.
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Too large remapped id
+May 14 15:08 : ffmpeg/aac:  is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
+May 14 15:08 : ffmpeg/aac: If you want to help, upload a sample of this file to https://streams.videolan.org/upload/ and contact the ffmpeg-devel mailing list. (ffmpeg-devel@ffmpeg.org)
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Not yet implemented in FFmpeg, patches welcome
+May 14 15:08 : ffmpeg/aac: channel element 3.11 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: invalid band type
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.11 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of bands (54) exceeds limit (44).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: decode_pce: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of scalefactor bands in group (15) exceeds limit (14).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.15 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (26) exceeds limit (8).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.14 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.9 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Number of bands (6) exceeds limit (5).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.4 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: SBR was found before the first channel element.
+May 14 15:08 : ffmpeg/aac: channel element 3.9 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.0 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.14 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.13 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.6 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (29) exceeds limit (15).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.14 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (7) exceeds limit (3).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: skip_data_stream_element: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Too large remapped id
+May 14 15:08 : ffmpeg/aac:  is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
+May 14 15:08 : ffmpeg/aac: If you want to help, upload a sample of this file to https://streams.videolan.org/upload/ and contact the ffmpeg-devel mailing list. (ffmpeg-devel@ffmpeg.org)
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Not yet implemented in FFmpeg, patches welcome
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of bands (36) exceeds limit (23).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.11 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: skip_data_stream_element: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.9 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: invalid band type
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.3 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Gain control
+May 14 15:08 : ffmpeg/aac:  is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of bands (24) exceeds limit (20).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (11) exceeds limit (5).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of scalefactor bands in group (51) exceeds limit (49).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.14 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.0 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Too large remapped id
+May 14 15:08 : ffmpeg/aac:  is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
+May 14 15:08 : ffmpeg/aac: If you want to help, upload a sample of this file to https://streams.videolan.org/upload/ and contact the ffmpeg-devel mailing list. (ffmpeg-devel@ffmpeg.org)
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Not yet implemented in FFmpeg, patches welcome
+May 14 15:08 : ffmpeg/aac: channel element 3.8 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: SBR was found before the first channel element.
+May 14 15:08 : ffmpeg/aac: channel element 3.0 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Number of bands (9) exceeds limit (7).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of bands (24) exceeds limit (8).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (40) exceeds limit (33).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: ms_present = 3 is reserved.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: skip_data_stream_element: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.1 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.13 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.7 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.5 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.1 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.12 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: SBR was found before the first channel element.
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.4 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of scalefactor bands in group (55) exceeds limit (49).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.4 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.3 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (7) exceeds limit (4).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.11 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Pulse tool not allowed in eight short sequence.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of bands (25) exceeds limit (12).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of scalefactor bands in group (58) exceeds limit (49).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (6) exceeds limit (5).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.2 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of bands (11) exceeds limit (10).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Too large remapped id
+May 14 15:08 : ffmpeg/aac:  is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
+May 14 15:08 : ffmpeg/aac: If you want to help, upload a sample of this file to https://streams.videolan.org/upload/ and contact the ffmpeg-devel mailing list. (ffmpeg-devel@ffmpeg.org)
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Not yet implemented in FFmpeg, patches welcome
+May 14 15:08 : ffmpeg/aac: channel element 2.5 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: SBR was found before the first channel element.
+May 14 15:08 : ffmpeg/aac: decode_pce: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Prediction is not allowed in AAC-LC.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: invalid band type
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.1 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: decode_pce: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.2 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of bands (9) exceeds limit (3).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.10 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Number of scalefactor bands in group (59) exceeds limit (49).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 2.9 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Number of bands (14) exceeds limit (2).
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: ms_present = 3 is reserved.
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.5 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: channel element 3.7 is not allocated
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Reserved bit set.
+May 14 15:08 : ffmpeg/aac: Sample rate index in program config element does not match the sample rate index configured by the container.
+May 14 15:08 : ffmpeg/aac: decode_pce: Input buffer exhausted before END element found
+May 14 15:08 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+May 14 15:08 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 15:08 : update: removing 魔法城堡.mp3
+May 14 15:09 : player: played "Don't say lazy.mp3"
+May 14 15:17 : update: added /魔法城堡.mp3
+May 14 15:17 : update: updating /魔法城堡.mp3
+May 14 15:19 : update: removing 魔法城堡.mp3
+May 14 15:19 : update: added /给我一瓶魔法药水.mp3
+May 14 15:19 : update: added /魔法城堡.mp3
+May 14 15:20 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 15:24 : player: played "魔法城堡.mp3"
+May 14 15:28 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 15:28 : player: played "给我一瓶魔法药水.mp3"
+May 14 15:33 : player: played "STAR TRAIN.m4a"
+May 14 15:36 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 15:36 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 15:36 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 15:36 : player: played "大雪.mp3"
+May 14 15:44 : player: played "极乐净土.mp3"
+May 14 17:31 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 17:31 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 17:31 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 17:31 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 17:31 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 17:31 : output: Failed to play on "pulse audio" (pulse): suspended
+May 14 17:31 : output: Failed to play on "pulse audio" (pulse): suspended
+May 14 17:34 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 14 17:36 : output: Failed to play on "pulse audio" (pulse): suspended
+May 14 17:37 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 14 17:38 : player: played "大雪.mp3"
+May 14 19:02 : player: played "大雪.mp3"
+May 14 19:26 : player: played "大雪.mp3"
+May 14 19:55 : player: played "大雪.mp3"
+May 14 20:03 : output: Failed to play on "pulse audio" (pulse): suspended
+May 14 20:03 : output: Failed to play on "pulse audio" (pulse): suspended
+May 14 20:04 : output: Failed to play on "pulse audio" (pulse): suspended
+May 14 20:06 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 20:06 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 20:06 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 20:07 : player: played "大雪.mp3"
+May 14 20:10 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 14 20:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 14 20:10 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 14 20:10 : player: played "极乐净土.mp3"
+May 14 20:14 : player: played "New boy.mp3"
+May 17 20:02 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 17 20:02 : player: played "Don't say lazy.mp3"
+May 17 20:02 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:03 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:03 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:03 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 17 20:05 : player: played "Just Fly Away.m4a"
+May 17 20:06 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:07 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:08 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 17 20:17 : output: Failed to play on "pulse audio" (pulse): disconnected
+May 17 20:17 : player: played "Just Fly Away.m4a"
+May 17 20:20 : player: played "魔法城堡.mp3"
+May 17 20:22 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:24 : player: played "魔法城堡.mp3"
+May 17 20:24 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:28 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 17 20:28 : player: played "给我一瓶魔法药水.mp3"
+May 17 20:28 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:32 : player: played "STAR TRAIN.m4a"
+May 17 20:32 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:35 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 17 20:35 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 17 20:35 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 17 20:35 : player: played "大雪.mp3"
+May 17 20:35 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:38 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 17 20:38 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 17 20:38 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 17 20:38 : player: played "极乐净土.mp3"
+May 17 20:38 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:43 : player: played "New boy.mp3"
+May 17 20:46 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:47 : player: played "爱与喜欢的区别- 尤长靖,房东的猫.flac"
+May 17 20:48 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:48 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:49 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:49 : output: Failed to play on "pulse audio" (pulse): disconnected
+May 17 20:52 : player: played "爱与喜欢的区别- 尤长靖,房东的猫.flac"
+May 17 20:52 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:55 : player: played "说书人.mp3"
+May 17 20:55 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 17 20:55 : player: played "Don't say lazy.mp3"
+May 17 20:55 : output: Failed to play on "pulse audio" (pulse): suspended
+May 17 20:58 : player: played "Just Fly Away.m4a"
+May 17 20:59 : output: Failed to play on "pulse audio" (pulse): disconnected
+May 17 21:00 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 21 09:50 : player: played "Just Fly Away.m4a"
+May 21 16:54 : player: played "Just Fly Away.m4a"
+May 21 19:51 : player: played "Just Fly Away.m4a"
+May 26 16:47 : ffmpeg/aac: Could not update timestamps for skipped samples.
+May 26 16:50 : player: played "Just Fly Away.m4a"
+May 26 17:36 : player: played "魔法城堡.mp3"
+May 26 23:12 : player: played "魔法城堡.mp3"
+May 27 12:29 : player: played "魔法城堡.mp3"
+May 27 17:17 : player: played "魔法城堡.mp3"
+May 27 19:14 : player: played "魔法城堡.mp3"
+May 27 23:40 : player: played "魔法城堡.mp3"
+May 28 12:34 : player: played "魔法城堡.mp3"
+May 28 13:57 : player: played "魔法城堡.mp3"
+May 28 14:36 : update: removing 说书人.mp3
+May 28 14:36 : update: removing 给我一瓶魔法药水.mp3
+May 28 14:36 : update: removing 爱与喜欢的区别- 尤长靖,房东的猫.flac
+May 28 14:36 : update: removing 大雪.mp3
+May 28 14:36 : update: removing 极乐净土.mp3
+May 28 14:36 : update: removing Don't say lazy.mp3
+May 28 14:36 : update: removing STAR TRAIN.m4a
+May 28 14:36 : update: removing New boy.mp3
+May 28 14:36 : update: removing Just Fly Away.m4a
+May 28 14:36 : update: removing 魔法城堡.mp3
+May 28 14:49 : player: played "魔法城堡.mp3"
+Jul 04 14:52 : update: added /69906719805221743.flac
+Jul 04 14:52 : update: added /带我去很远地方-黄霄雲.flac
+Jul 04 14:52 : update: added /涉海前行-黄霄雲.320.mp3
+Jul 04 14:52 : update: added /荣耀的战场.mp3
+Jul 04 14:52 : update: removing 69906719805221743.flac
+Jul 04 14:54 : update: added /我不曾忘记.flac
+Jul 04 14:55 : update: removing 涉海前行-黄霄雲.320.mp3
+Jul 04 14:55 : update: added /涉海前行-黄霄雲.mp3
+Jul 04 14:57 : player: played "带我去很远地方-黄霄雲.flac"
+Jul 04 15:01 : player: played "荣耀的战场.mp3"
+Jul 04 15:05 : player: played "我不曾忘记.flac"
+Jul 04 17:01 : player: played "涉海前行-黄霄雲.mp3"
+Jul 05 00:26 : player: played "荣耀的战场.mp3"
+Dec 31 13:14 : exception: Failed to decode /home/yunqi/Music/荣耀的战场.mp3; Failed to open '/home/yunqi/Music/荣耀的战场.mp3': No such file or directory
+Dec 31 13:14 : player: played "荣耀的战场.mp3"
+Dec 31 13:14 : exception: Failed to decode /home/yunqi/Music/我不曾忘记.flac; Failed to open '/home/yunqi/Music/我不曾忘记.flac': No such file or directory
+Dec 31 13:14 : player: played "我不曾忘记.flac"
+Dec 31 13:14 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 31 13:15 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 31 21:45 : update: removing 带我去很远地方-黄霄雲.flac
+Dec 31 21:45 : update: removing 荣耀的战场.mp3
+Dec 31 21:45 : update: removing 涉海前行-黄霄雲.mp3
+Dec 31 21:45 : update: added /hands up to the sky.mp3
+Dec 31 21:45 : update: removing 我不曾忘记.flac
+Dec 31 21:50 : update: added /ec341facb23c99ca92521e048d3ff151.mp3
+Dec 31 21:50 : update: removing ec341facb23c99ca92521e048d3ff151.mp3
+Dec 31 21:50 : update: added /Avid.mp3
+Dec 31 21:50 : update: removing hands up to the sky.mp3
+Dec 31 21:50 : update: added /Hands up to the sky.mp3
+Dec 31 21:51 : player: played "hands up to the sky.mp3"
+Dec 31 21:51 : exception: Not playing
+Dec 31 21:51 : exception: Not playing
+Dec 31 21:51 : exception: Not playing
+Dec 31 21:51 : exception: Not playing
+Dec 31 21:52 : exception: Access denied
+Dec 31 21:54 : exception: Access denied
+Dec 31 21:56 : player: played "Avid.mp3"
+Dec 31 21:56 : exception: Failed to decode /home/yunqi/Music/hands up to the sky.mp3; Failed to open '/home/yunqi/Music/hands up to the sky.mp3': No such file or directory
+Dec 31 21:56 : player: played "hands up to the sky.mp3"
+Dec 31 21:59 : player: played "Avid.mp3"
+Dec 31 21:59 : exception: Failed to decode /home/yunqi/Music/hands up to the sky.mp3; Failed to open '/home/yunqi/Music/hands up to the sky.mp3': No such file or directory
+Dec 31 21:59 : player: played "hands up to the sky.mp3"
+Dec 31 22:00 : player: played "Avid.mp3"
+Dec 31 22:00 : exception: Failed to decode /home/yunqi/Music/hands up to the sky.mp3; Failed to open '/home/yunqi/Music/hands up to the sky.mp3': No such file or directory
+Dec 31 22:00 : player: played "hands up to the sky.mp3"
+Dec 31 22:00 : player: played "Avid.mp3"
+Dec 31 22:01 : player: played "Hands up to the sky.mp3"
+Jan 01 11:40 : player: played "Hands up to the sky.mp3"
+Jan 01 11:40 : exception: Not playing
+Jan 01 11:44 : player: played "Hands up to the sky.mp3"
+Jan 01 13:12 : player: played "Avid.mp3"
+Jan 01 13:18 : update: added /d701c960711e73b85d91fc8b62d9b452.mp3
+Jan 01 13:18 : update: removing d701c960711e73b85d91fc8b62d9b452.mp3
+Jan 01 13:18 : update: added /消愁.mp3
+Jan 01 13:37 : player: played "消愁.mp3"
+Jan 01 14:28 : player: played "消愁.mp3"
+Jan 01 14:31 : player: played "Hands up to the sky.mp3"
+Jan 01 14:32 : player: played "消愁.mp3"
+Jan 01 14:39 : player: played "Hands up to the sky.mp3"
+Jan 01 14:42 : update: removing 消愁.mp3
+Jan 01 14:43 : update: added /消愁.mp3
+Jan 01 14:43 : player: played "Avid.mp3"
+Jan 01 14:46 : player: played "Hands up to the sky.mp3"
+Jan 01 14:49 : update: updating /Avid.mp3
+Jan 01 14:51 : update: updating /Hands up to the sky.mp3
+Jan 01 14:51 : player: played "Avid.mp3"
+Jan 01 14:52 : update: updating /消愁.mp3
+Jan 01 14:56 : update: added /你逆着光而来.mp3
+Jan 01 14:58 : update: updating /你逆着光而来.mp3
+Jan 01 15:00 : update: added /0c3d4958f3a7a88b0f8c250feddfede0.mp3
+Jan 01 15:00 : update: removing 0c3d4958f3a7a88b0f8c250feddfede0.mp3
+Jan 01 15:00 : update: added /Sad sometimes.mp3
+Jan 01 15:03 : update: updating /Sad sometimes.mp3
+Jan 01 15:03 : player: played "你逆着光而来.mp3"
+Jan 01 15:03 : update: updating /Sad sometimes.mp3
+Jan 01 15:14 : update: added /那一天.mp3
+Jan 01 15:15 : update: updating /那一天.mp3
+Jan 01 15:17 : player: played "Sad sometimes.mp3"
+Jan 01 15:45 : update: added /意外.mp3
+Jan 01 15:47 : update: updating /意外.mp3
+Jan 01 15:52 : update: added /春风十里.mp3
+Jan 01 15:53 : update: updating /春风十里.mp3
+Jan 01 15:57 : player: played "Hands up to the sky.mp3"
+Jan 01 16:00 : player: played "你逆着光而来.mp3"
+Jan 01 16:03 : player: played "那一天.mp3"
+Jan 01 16:10 : player: played "春风十里.mp3"
+Jan 01 16:14 : player: played "Avid.mp3"
+Jan 01 16:33 : player: played "Sad sometimes.mp3"
+Jan 01 16:33 : exception: Not playing
+Jan 01 16:42 : player: played "意外.mp3"
+Jan 01 16:47 : player: played "Avid.mp3"
+Jan 01 16:47 : exception: Not playing
+Jan 01 16:47 : exception: Not playing
+Jan 01 16:50 : player: played "Hands up to the sky.mp3"
+Jan 01 16:54 : player: played "Hands up to the sky.mp3"
+Jan 01 16:58 : player: played "那一天.mp3"
+Jan 01 17:08 : player: played "意外.mp3"
+Jan 01 17:14 : player: played "你逆着光而来.mp3"
+Jan 01 17:22 : player: played "Sad sometimes.mp3"
+Jan 01 18:37 : update: added /サマーライト (feat. 倚水).mp3
+Jan 01 18:41 : update: updating /サマーライト (feat. 倚水).mp3
+Jan 01 18:46 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 01 20:15 : player: played "Sad sometimes.mp3"
+Jan 01 20:38 : player: played "Sad sometimes.mp3"
+Jan 01 20:41 : player: played "那一天.mp3"
+Jan 01 20:45 : player: played "消愁.mp3"
+Jan 01 20:52 : player: played "春风十里.mp3"
+Jan 01 20:56 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 01 21:00 : player: played "那一天.mp3"
+Jan 01 21:04 : player: played "意外.mp3"
+Jan 01 21:08 : player: played "Sad sometimes.mp3"
+Jan 01 21:09 : update: added 茶啊二中/那一天.mp3
+Jan 01 21:13 : exception: Failed to decode /home/yunqi/Music/那一天.mp3; Failed to open '/home/yunqi/Music/那一天.mp3': No such file or directory
+Jan 01 21:13 : player: played "茶啊二中/那一天.mp3"
+Jan 01 21:13 : player: played "那一天.mp3"
+Jan 01 21:13 : exception: Failed to decode /home/yunqi/Music/那一天.mp3; Failed to open '/home/yunqi/Music/那一天.mp3': No such file or directory
+Jan 01 21:13 : player: played "那一天.mp3"
+Jan 01 21:18 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 01 21:22 : player: played "消愁.mp3"
+Jan 01 21:26 : player: played "你逆着光而来.mp3"
+Jan 01 21:26 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 01 21:32 : player: played "春风十里.mp3"
+Jan 01 21:32 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 01 21:35 : player: played "Hands up to the sky.mp3"
+Jan 01 21:40 : player: played "意外.mp3"
+Jan 01 22:11 : update: removing 茶啊二中/那一天.mp3
+Jan 01 22:15 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 01 22:32 : player: played "那一天.mp3"
+Jan 01 22:36 : player: played "Hands up to the sky.mp3"
+Jan 01 22:39 : player: played "Sad sometimes.mp3"
+Jan 01 22:43 : player: played "消愁.mp3"
+Jan 01 22:50 : player: played "春风十里.mp3"
+Jan 01 22:54 : player: played "Avid.mp3"
+Jan 01 22:57 : player: played "那一天.mp3"
+Jan 01 23:02 : player: played "意外.mp3"
+Jan 01 23:07 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 01 23:10 : player: played "你逆着光而来.mp3"
+Jan 01 23:14 : player: played "Hands up to the sky.mp3"
+Jan 01 23:30 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 01 23:32 : player: played "意外.mp3"
+Jan 02 09:47 : player: played "意外.mp3"
+Jan 02 09:51 : player: played "Sad sometimes.mp3"
+Jan 02 09:54 : player: played "那一天.mp3"
+Jan 02 09:58 : player: played "Avid.mp3"
+Jan 02 10:03 : player: played "消愁.mp3"
+Jan 02 10:07 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 02 10:10 : player: played "你逆着光而来.mp3"
+Jan 02 10:14 : player: played "Hands up to the sky.mp3"
+Jan 02 10:32 : player: played "春风十里.mp3"
+Jan 02 10:35 : player: played "Sad sometimes.mp3"
+Jan 02 12:43 : player: played "意外.mp3"
+Jan 02 12:49 : player: played "你逆着光而来.mp3"
+Jan 02 12:53 : player: played "Avid.mp3"
+Jan 02 12:57 : player: played "Hands up to the sky.mp3"
+Jan 02 13:03 : player: played "Hands up to the sky.mp3"
+Jan 02 13:06 : player: played "Sad sometimes.mp3"
+Jan 02 13:13 : player: played "意外.mp3"
+Jan 02 13:23 : player: played "春风十里.mp3"
+Jan 02 15:03 : update: added /M500000oEFdt01HV9r.mp3?guid=4220211900&vkey=8C329B8BF6261EFD0B79B11F9F0B4F528A936F677A33B802A183D4775ADC0D4F03B355C38BEF54B126255E7664C22088CD28C45F117F6249&uin=&fromtag=123042&src=M500003wQhxK3hUwv2.mp3
+Jan 02 15:03 : update: removing M500000oEFdt01HV9r.mp3?guid=4220211900&vkey=8C329B8BF6261EFD0B79B11F9F0B4F528A936F677A33B802A183D4775ADC0D4F03B355C38BEF54B126255E7664C22088CD28C45F117F6249&uin=&fromtag=123042&src=M500003wQhxK3hUwv2.mp3
+Jan 02 15:05 : update: added /星之火～awake～.mp3
+Jan 02 15:28 : player: played "星之火～awake～.mp3"
+Jan 02 15:32 : player: played "消愁.mp3"
+Jan 02 15:51 : player: played "Avid.mp3"
+Jan 02 16:27 : player: played "Avid.mp3"
+Jan 02 16:27 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 16:34 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 16:35 : player: played "星之火～awake～.mp3"
+Jan 02 16:38 : player: played "你逆着光而来.mp3"
+Jan 02 16:55 : player: played "Sad sometimes.mp3"
+Jan 02 16:58 : player: played "Hands up to the sky.mp3"
+Jan 02 17:03 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 02 17:04 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 17:06 : player: played "那一天.mp3"
+Jan 02 17:42 : player: played "消愁.mp3"
+Jan 02 17:48 : player: played "春风十里.mp3"
+Jan 02 17:48 : player: played "春风十里.mp3"
+Jan 02 17:52 : player: played "Hands up to the sky.mp3"
+Jan 02 17:53 : player: played "春风十里.mp3"
+Jan 02 17:59 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 18:02 : player: played "意外.mp3"
+Jan 02 19:31 : player: played "消愁.mp3"
+Jan 02 19:35 : player: played "Avid.mp3"
+Jan 02 19:35 : client: [19] command "close" during idle
+Jan 02 19:36 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 19:36 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 19:39 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 19:41 : player: played "Sad sometimes.mp3"
+Jan 02 19:48 : player: played "Sad sometimes.mp3"
+Jan 02 19:53 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 19:55 : player: played "Sad sometimes.mp3"
+Jan 02 19:55 : player: played "Avid.mp3"
+Jan 02 20:05 : player: played "Avid.mp3"
+Jan 02 20:09 : player: played "那一天.mp3"
+Jan 02 20:17 : player: played "消愁.mp3"
+Jan 02 20:20 : player: played "你逆着光而来.mp3"
+Jan 02 20:21 : player: played "星之火～awake～.mp3"
+Jan 02 20:32 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 20:42 : player: played "星之火～awake～.mp3"
+Jan 02 20:59 : player: played "星之火～awake～.mp3"
+Jan 02 21:02 : player: played "消愁.mp3"
+Jan 02 21:05 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 21:08 : player: played "消愁.mp3"
+Jan 02 21:11 : player: played "Sad sometimes.mp3"
+Jan 02 21:13 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 02 21:15 : player: played "Avid.mp3"
+Jan 02 21:30 : player: played "意外.mp3"
+Jan 02 21:54 : player: played "Sad sometimes.mp3"
+Jan 02 22:08 : player: played "Sad sometimes.mp3"
+Jan 02 22:09 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 02 22:15 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 02 22:16 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 02 22:16 : exception: Failed to open audio output
+Jan 02 22:16 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 02 22:16 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 02 22:16 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 02 22:17 : output: Failed to play on "pulse audio" (pulse): disconnected
+Jan 02 22:17 : output: Failed to play on "pulse audio" (pulse): disconnected
+Jan 02 22:19 : player: played "Sad sometimes.mp3"
+Jan 02 22:24 : player: played "Avid.mp3"
+Jan 02 22:28 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 02 22:33 : player: played "意外.mp3"
+Jan 02 22:33 : output: Failed to play on "pulse audio" (pulse): disconnected
+Jan 02 22:33 : player: played "那一天.mp3"
+Jan 02 22:36 : player: played "那一天.mp3"
+Jan 02 23:00 : player: played "Hands up to the sky.mp3"
+Jan 02 23:39 : player: played "星之火～awake～.mp3"
+Jan 03 10:04 : player: played "星之火～awake～.mp3"
+Jan 03 10:09 : player: played "Avid.mp3"
+Jan 03 10:12 : player: played "你逆着光而来.mp3"
+Jan 03 10:21 : player: played "意外.mp3"
+Jan 03 10:24 : player: played "Hands up to the sky.mp3"
+Jan 03 10:29 : player: played "春风十里.mp3"
+Jan 03 10:40 : player: played "春风十里.mp3"
+Jan 03 10:46 : player: played "春风十里.mp3"
+Jan 03 10:50 : player: played "消愁.mp3"
+Jan 03 10:54 : player: played "那一天.mp3"
+Jan 03 10:57 : player: played "你逆着光而来.mp3"
+Jan 03 10:59 : player: played "Sad sometimes.mp3"
+Jan 03 11:11 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 03 11:15 : player: played "那一天.mp3"
+Jan 03 11:33 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 03 11:36 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 03 11:37 : player: played "意外.mp3"
+Jan 03 11:37 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 03 11:38 : player: played "Avid.mp3"
+Jan 03 15:16 : player: played "Hands up to the sky.mp3"
+Jan 03 16:46 : player: played "Hands up to the sky.mp3"
+Jan 03 16:53 : player: played "Hands up to the sky.mp3"
+Jan 03 18:41 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 03 18:44 : player: played "那一天.mp3"
+Jan 03 18:48 : player: played "Avid.mp3"
+Jan 03 18:51 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 03 18:52 : player: played "消愁.mp3"
+Jan 03 19:04 : player: played "星之火～awake～.mp3"
+Jan 03 20:24 : player: played "星之火～awake～.mp3"

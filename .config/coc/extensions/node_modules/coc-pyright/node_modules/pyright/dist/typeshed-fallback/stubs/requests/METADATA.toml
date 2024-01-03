@@ -1,0 +1,5 @@
+version = "2.31.*"
+requires = ["types-urllib3"]
+
+[tool.stubtest]
+extras = ["socks"]

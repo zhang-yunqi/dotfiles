@@ -1,0 +1,3 @@
+return {
+	"yianwillis/vimcdoc"
+}

@@ -1,0 +1,25 @@
+sw_volume: 24
+audio_device_state:1:pulse audio
+audio_device_state:1:Visualizer feed
+state: pause
+current: 8
+time: 147.899000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Sad sometimes.mp3
+1:Avid.mp3
+2:Hands up to the sky.mp3
+3:サマーライト (feat. 倚水).mp3
+4:你逆着光而来.mp3
+5:意外.mp3
+6:消愁.mp3
+7:春风十里.mp3
+8:星之火～awake～.mp3
+9:那一天.mp3
+playlist_end
