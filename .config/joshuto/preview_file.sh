@@ -194,8 +194,17 @@ handle_mime() {
             djvutxt "${FILE_PATH}" | fmt -w "${PREVIEW_WIDTH}" && exit 0
             exiftool "${FILE_PATH}" && exit 0
             exit 1 ;;
-
-            ## Image
+        
+        ## Image
+        
+        image/png | image/jpeg)
+            dimension="Size `exiftool "$path" | grep '^Image Size' | awk '{print $4}'`"
+            echo "$dimension"
+            meta_file=$(get_preview_meta_file "$path")
+            let y_offset=`printf "${tags}" | sed -n '=' | wc -l`+2
+            echo "y-offset $y_offset" > "$meta_file"
+            exit 4
+            ;;
         image/*)
             ## Preview as text conversion
             exiftool "${FILE_PATH}" && exit 0

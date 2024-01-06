@@ -991,3 +991,54 @@ Jan 03 18:51 : output: Failed to play on "pulse audio" (pulse): suspended
 Jan 03 18:52 : player: played "消愁.mp3"
 Jan 03 19:04 : player: played "星之火～awake～.mp3"
 Jan 03 20:24 : player: played "星之火～awake～.mp3"
+Jan 03 22:11 : player: played "星之火～awake～.mp3"
+Jan 03 22:14 : player: played "Sad sometimes.mp3"
+Jan 03 22:18 : update: added /恋爱告急.mp3
+Jan 03 22:20 : player: played "Avid.mp3"
+Jan 03 22:21 : update: updating /恋爱告急.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 6309.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jan 03 22:22 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 22:22 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 22:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 7336.
+Jan 03 22:23 : update: added /今日晴.mp3
+Jan 03 22:24 : update: updating /今日晴.mp3
+Jan 03 22:25 : player: played "サマーライト (feat. 倚水).mp3"
+Jan 03 22:27 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 03 22:29 : update: added /未完成少女.mp3
+Jan 03 22:33 : update: added /光之轨迹.mp3
+Jan 03 22:36 : player: played "那一天.mp3"
+Jan 03 22:40 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 22:40 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Jan 03 22:40 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Jan 03 22:40 : update: added /サマーライト (feat.flac
+Jan 03 22:40 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 22:40 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Jan 03 22:40 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Jan 03 22:40 : update: added /你逆着光而来.flac
+Jan 03 22:40 : update: added /意外.flac
+Jan 03 22:40 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 22:40 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Jan 03 22:40 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Jan 03 22:41 : update: removing サマーライト (feat.flac
+Jan 03 22:41 : update: removing 你逆着光而来.flac
+Jan 03 22:41 : update: removing 意外.flac
+Jan 03 22:41 : player: played "恋爱告急.mp3"
+Jan 03 22:46 : player: played "意外.mp3"
+Jan 03 22:59 : update: added /公主披风.mp3
+Jan 03 23:03 : player: played "公主披风.mp3"
+Jan 03 23:04 : player: played "春风十里.mp3"
+Jan 04 10:42 : player: played "春风十里.mp3"
+Jan 04 10:46 : player: played "春风十里.mp3"
+Jan 04 11:28 : player: played "恋爱告急.mp3"
+Jan 04 11:37 : player: played "未完成少女.mp3"
+Jan 06 19:37 : player: played "未完成少女.mp3"
+Jan 06 19:41 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 06 19:45 : player: played "Avid.mp3"
+Jan 06 19:48 : output: Failed to play on "pulse audio" (pulse): suspended
+Jan 06 19:50 : player: played "意外.mp3"
+Jan 06 19:57 : player: played "サマーライト (feat. 倚水).mp3"

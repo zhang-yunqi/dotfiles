@@ -1,9 +1,14 @@
+#!/bin/python
+
 import os
 import datetime
 
 filename = str(datetime.datetime.now()).split('.')[0]
 
-os.system(f'grim ~/Pictures/"{filename}".png')
+size = os.popen('slurp', 'r').read().replace("\n","")
+
+os.system(f'grim -g "{size}" ~/Pictures/"{filename}.png"')
+
 
 os.system(f'wl-copy < ~/Pictures/"{filename}".png')
 

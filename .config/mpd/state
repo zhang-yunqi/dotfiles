@@ -2,10 +2,10 @@ sw_volume: 24
 audio_device_state:1:pulse audio
 audio_device_state:1:Visualizer feed
 state: pause
-current: 8
-time: 147.899000
+current: 4
+time: 3.706000
 random: 1
-repeat: 1
+repeat: 0
 single: 0
 consume: 0
 crossfade: 0
@@ -16,10 +16,15 @@ playlist_begin
 1:Avid.mp3
 2:Hands up to the sky.mp3
 3:サマーライト (feat. 倚水).mp3
-4:你逆着光而来.mp3
-5:意外.mp3
-6:消愁.mp3
-7:春风十里.mp3
-8:星之火～awake～.mp3
-9:那一天.mp3
+4:今日晴.mp3
+5:恋爱告急.mp3
+6:你逆着光而来.mp3
+7:光之轨迹.mp3
+8:意外.mp3
+9:消愁.mp3
+10:春风十里.mp3
+11:星之火～awake～.mp3
+12:那一天.mp3
+13:未完成少女.mp3
+14:公主披风.mp3
 playlist_end
