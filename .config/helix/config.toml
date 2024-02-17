@@ -1,0 +1,28 @@
+theme = "nord"
+
+[editor]
+true-color = true
+mouse = true
+auto-save = true
+auto-format = true
+bufferline = "multiple"
+cursorline = true
+idle-timeout = 0
+
+[editor.lsp]
+display-messages = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[keys.normal]
+"u" = "move_line_up"
+"e" = "move_line_down"
+"i" = "move_char_right"
+"n" = "move_char_left"
+"k" = "insert_mode"
+
+[editor.file-picker]
+hidden = false
